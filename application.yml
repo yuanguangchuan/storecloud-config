@@ -6,7 +6,7 @@ spring:
 spring:
   profiles: dev     #开发环境
   application: 
-    name: storecloud-config-store-dev
+    name: storecloud-config-store-dev-yuan
 ---
 spring:
   profiles: test   #测试环境
